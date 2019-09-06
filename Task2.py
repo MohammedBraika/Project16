@@ -1,0 +1,2 @@
+thistuple = ()
+print(thistuple)
